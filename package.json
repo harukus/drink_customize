@@ -1,6 +1,6 @@
 {
   "name": "drink_customize",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Show you the randomly customized drink you choose and the price.",
   "main": "index.js",
   "bin": {
