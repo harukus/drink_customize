@@ -1,0 +1,29 @@
+{
+  "name": "drink_customize",
+  "version": "1.0.4",
+  "description": "Show you the randomly customized drink you choose and the price.",
+  "main": "index.js",
+  "bin": {
+    "drink_customize": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harukus/drink_customize.git"
+  },
+  "keywords": [
+    "jp",
+    "japan"
+  ],
+  "author": "harukus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harukus/drink_customize/issues"
+  },
+  "homepage": "https://github.com/harukus/drink_customize#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
